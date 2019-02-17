@@ -7,6 +7,10 @@ This has the usual functions you might expect to see in a blog-type site with fu
 * Edit posts
 * Delete posts
 
+The data for the site is stored in a SQL database.
+
+All content is then shown using Object Orientated code via a class named Database.
+
 
 ## Built With
 
