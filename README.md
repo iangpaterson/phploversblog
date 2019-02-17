@@ -1,5 +1,5 @@
-# simple-blog
-An example of a simple working PHP blog
+# phploversblog
+A working PHP blog site for lovers of the PHP language
 
 This has the usual functions you might expect to see in a blog-type site with full CRUD operations;
 * Create posts
@@ -11,7 +11,7 @@ This has the usual functions you might expect to see in a blog-type site with fu
 ## Built With
 
 * [PHP 7.2.10](https://secure.php.net/) - The language used
-* [Bootstrap 4 Darkly Theme](https://bootswatch.com/darkly/) - The CSS/theme/framework used
+* [Bootstrap 3](https://getbootstrap.com/docs/3.4/) - The CSS/theme/framework used
 
 ## Author
 
